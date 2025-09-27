@@ -2,11 +2,11 @@
 
 A modern, responsive homepage for a fictional IELTS Institute built with React.js and Tailwind CSS. This project showcases a professional design with clean UI, smooth animations, and mobile-first responsive design.
 
-## 🚀 Live Demo
+##  Live Demo
 
 Access the application at: `http://localhost:5173/`
 
-## ✨ Features
+##  Features
 
 - **Modern Design**: Clean, professional UI with smooth animations and hover effects
 - **Fully Responsive**: Optimized for mobile, tablet, and desktop devices
@@ -14,7 +14,7 @@ Access the application at: `http://localhost:5173/`
 - **Interactive Components**: Mobile-friendly navigation, animated cards, and smooth scrolling
 - **Performance Optimized**: Built with Vite for fast development and optimized builds
 
-## 🎨 Design Highlights
+##  Design Highlights
 
 - **Gradient Backgrounds**: Beautiful gradient overlays using the specified color palette
 - **Typography**: Inter font family for excellent readability
@@ -22,7 +22,7 @@ Access the application at: `http://localhost:5173/`
 - **Micro-interactions**: Hover effects, transforms, and smooth transitions
 - **Card-based Layout**: Clean, modern card designs for features and testimonials
 
-## 📱 Sections
+##  Sections
 
 1. **Navigation Bar**
    - Fixed position with backdrop blur effect
@@ -53,7 +53,7 @@ Access the application at: `http://localhost:5173/`
    - Social media links
    - IELTS resources section
 
-## 🛠️ Technology Stack
+##  Technology Stack
 
 - **React 18**: Modern functional components with hooks
 - **Vite**: Fast build tool and development server
@@ -61,7 +61,7 @@ Access the application at: `http://localhost:5173/`
 - **PostCSS**: CSS post-processing
 - **Modern JavaScript (ES6+)**: Clean, maintainable code
 
-## 📦 Installation & Setup
+##  Installation & Setup
 
 ### Prerequisites
 
@@ -104,7 +104,7 @@ The build files will be generated in the `dist/` directory.
 npm run preview
 ```
 
-## 🎯 Design Choices & Rationale
+##  Design Choices & Rationale
 
 ### Color Palette
 - **Primary Dark (#0F0F0F)**: Main background for modern, professional look
@@ -128,7 +128,7 @@ npm run preview
 - **Responsive font sizes**: Scales appropriately across all device sizes
 - **Proper line height**: Optimized for reading comfort
 
-## 📁 Project Structure
+##  Project Structure
 
 ```
 src/
@@ -144,7 +144,7 @@ src/
 └── main.jsx               # Application entry point
 ```
 
-## 🔧 Customization
+##  Customization
 
 ### Colors
 Update the custom colors in `tailwind.config.js`:
@@ -176,24 +176,22 @@ Add custom styles in `src/index.css` or modify Tailwind classes directly in comp
 
 All components are fully responsive and tested across these breakpoints.
 
-## 🚀 Performance Optimizations
+##  Performance Optimizations
 
 - Lazy loading for images
 - Optimized CSS with Tailwind's purge functionality
 - Efficient React component rendering
 - Minimal bundle size with Vite's tree-shaking
 
-## 📄 License
+##  License
 
 This project is created for educational purposes and assessment. Feel free to use it as a reference or starting point for your own projects.
 
-## 🤝 Contributing
+## Contributing
 
 This is a showcase project, but suggestions and improvements are welcome!
 
 ---
-
-**Built with ❤️ using React.js and Tailwind CSS**
 
 ## React Compiler
 
